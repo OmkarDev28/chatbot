@@ -1,0 +1,501 @@
+Complaint ID,Location,Road Name,Severity,Reported Date,Status,Description,Action Taken
+435,Andheri,Link Road,Medium,2025-04-30,Pending,Pothole with water accumulation,Repaired
+211,Bandra,Western Express Hwy,Low,2025-04-30,Pending,Deep pothole affecting traffic,Pending
+334,Andheri,LBS Road,Low,2025-04-30,Pending,Pothole with water accumulation,Under review
+128,Malad,LBS Road,Medium,2025-04-30,Pending,Pothole with water accumulation,Under review
+293,Andheri,LBS Road,High,2025-04-30,Resolved,Small pothole near traffic signal,Pending
+142,Malad,JVLR Road,Low,2025-04-30,Resolved,Pothole with water accumulation,Under review
+80,Andheri,LBS Road,Low,2025-04-30,Pending,Small pothole near traffic signal,Repaired
+151,Dadar,JVLR Road,High,2025-04-30,Pending,Large pothole in high-traffic area,Pending
+329,Malad,Western Express Hwy,High,2025-04-30,Resolved,Large pothole in high-traffic area,Pending
+466,Sion,Link Road,High,2025-04-30,Pending,Large pothole in high-traffic area,Under review
+231,Sion,Eastern Express Hwy,High,2025-04-30,Pending,Pothole with water accumulation,Repaired
+359,Dadar,Linking Road,Low,2025-04-30,Pending,Pothole affecting bus lanes,Pending
+49,Kurla,Eastern Express Hwy,Medium,2025-04-30,Resolved,Small pothole near pedestrian crossing,Repaired
+348,Sion,Western Express Hwy,High,2025-04-30,Pending,Large pothole in the middle of the road,Pending
+120,Dadar,LBS Road,Low,2025-04-30,Pending,Pothole affecting bus lanes,Repaired
+230,Kurla,Sion Trombay Road,High,2025-04-30,Resolved,Large pothole in the middle of the road,Under review
+392,Kurla,LBS Road,High,2025-04-30,Resolved,Large pothole in high-traffic area,Under review
+494,Malad,JVLR Road,High,2025-04-30,Resolved,Pothole with water accumulation,Repaired
+405,Malad,Western Express Hwy,High,2025-04-30,Pending,Small pothole near traffic signal,Repaired
+165,Kurla,SV Road,High,2025-04-30,Pending,Pothole with water accumulation,Repaired
+471,Dadar,Linking Road,Low,2025-04-30,Resolved,Small pothole near pedestrian crossing,Under review
+217,Borivali,Linking Road,High,2025-04-30,Pending,Large pothole in the middle of the road,Under review
+483,Borivali,Eastern Express Hwy,Medium,2025-04-30,Resolved,Huge pothole causing vehicle damage,Repaired
+234,Vile Parle,SV Road,Low,2025-04-30,Resolved,Deep pothole affecting traffic,Pending
+407,Vile Parle,Linking Road,Low,2025-04-30,Pending,Deep pothole affecting traffic,Under review
+43,Sion,Eastern Express Hwy,Low,2025-04-30,Pending,Large pothole in the middle of the road,Under review
+332,Borivali,Eastern Express Hwy,High,2025-04-30,Pending,Deep pothole affecting traffic,Repaired
+320,Sion,SV Road,High,2025-04-30,Pending,Small pothole near traffic signal,Repaired
+252,Andheri,LBS Road,High,2025-04-30,Resolved,Small pothole near traffic signal,Repaired
+64,Dadar,LBS Road,Medium,2025-04-30,Resolved,Large pothole in the middle of the road,Pending
+273,Borivali,Eastern Express Hwy,High,2025-04-30,Resolved,Pothole affecting bus lanes,Pending
+459,Sion,JVLR Road,High,2025-04-30,Pending,Pothole with water accumulation,Pending
+97,Malad,JVLR Road,Low,2025-04-30,Resolved,Deep pothole affecting traffic,Repaired
+447,Malad,LBS Road,Medium,2025-04-30,Pending,Pothole with water accumulation,Pending
+113,Kurla,Eastern Express Hwy,Medium,2025-04-30,Resolved,Large pothole in high-traffic area,Repaired
+53,Sion,SV Road,Medium,2025-04-30,Pending,Small pothole near traffic signal,Pending
+36,Kurla,SV Road,Medium,2025-04-30,Resolved,Huge pothole causing vehicle damage,Pending
+148,Sion,SV Road,Low,2025-04-30,Resolved,Small pothole near pedestrian crossing,Pending
+178,Andheri,JVLR Road,Low,2025-04-30,Resolved,Large pothole in high-traffic area,Under review
+16,Andheri,LBS Road,High,2025-04-30,Resolved,Pothole with water accumulation,Under review
+226,Malad,JVLR Road,Medium,2025-04-30,Pending,Deep pothole affecting traffic,Pending
+223,Bandra,Western Express Hwy,Low,2025-04-30,Pending,Huge pothole causing vehicle damage,Pending
+306,Dadar,Linking Road,Medium,2025-04-30,Pending,Small pothole near traffic signal,Pending
+94,Bandra,Western Express Hwy,Medium,2025-04-30,Resolved,Large pothole in high-traffic area,Pending
+50,Bandra,Eastern Express Hwy,High,2025-04-30,Pending,Huge pothole causing vehicle damage,Pending
+446,Kurla,JVLR Road,Medium,2025-04-30,Resolved,Small pothole near pedestrian crossing,Under review
+358,Andheri,Western Express Hwy,High,2025-04-30,Pending,Small pothole near traffic signal,Pending
+437,Vile Parle,Western Express Hwy,Low,2025-04-30,Resolved,Deep pothole affecting traffic,Under review
+455,Andheri,Eastern Express Hwy,Medium,2025-04-30,Pending,Pothole affecting bus lanes,Repaired
+116,Bandra,JVLR Road,Medium,2025-04-30,Resolved,Pothole with water accumulation,Under review
+418,Andheri,Link Road,Low,2025-04-30,Pending,Large pothole in high-traffic area,Pending
+156,Borivali,Link Road,Medium,2025-04-30,Pending,Large pothole in the middle of the road,Pending
+39,Kurla,JVLR Road,Medium,2025-04-30,Pending,Small pothole near traffic signal,Pending
+127,Bandra,LBS Road,High,2025-04-30,Pending,Small pothole near pedestrian crossing,Repaired
+18,Andheri,Sion Trombay Road,Low,2025-04-30,Pending,Small pothole near traffic signal,Pending
+269,Bandra,SV Road,Low,2025-04-30,Pending,Pothole affecting bus lanes,Pending
+90,Malad,Link Road,High,2025-04-30,Pending,Deep pothole affecting traffic,Under review
+197,Bandra,SV Road,High,2025-04-30,Resolved,Small pothole near traffic signal,Pending
+296,Vile Parle,Western Express Hwy,High,2025-04-30,Pending,Large pothole in high-traffic area,Repaired
+263,Kurla,Sion Trombay Road,Medium,2025-04-30,Resolved,Deep pothole affecting traffic,Pending
+163,Sion,SV Road,Medium,2025-04-30,Resolved,Large pothole in high-traffic area,Under review
+17,Kurla,Eastern Express Hwy,High,2025-04-30,Pending,Pothole affecting bus lanes,Under review
+81,Sion,Eastern Express Hwy,Low,2025-04-30,Resolved,Pothole with water accumulation,Repaired
+204,Sion,JVLR Road,Medium,2025-04-30,Pending,Deep pothole affecting traffic,Under review
+44,Andheri,Western Express Hwy,Medium,2025-04-30,Resolved,Deep pothole affecting traffic,Pending
+173,Borivali,Linking Road,Medium,2025-04-30,Resolved,Huge pothole causing vehicle damage,Pending
+106,Kurla,Western Express Hwy,Medium,2025-04-30,Pending,Pothole affecting bus lanes,Under review
+449,Vile Parle,Western Express Hwy,Low,2025-04-30,Pending,Large pothole in the middle of the road,Pending
+55,Bandra,Eastern Express Hwy,Medium,2025-04-30,Pending,Small pothole near pedestrian crossing,Pending
+308,Malad,Eastern Express Hwy,Low,2025-04-30,Pending,Pothole with water accumulation,Under review
+246,Borivali,Linking Road,Low,2025-04-30,Resolved,Large pothole in high-traffic area,Repaired
+339,Borivali,Linking Road,Medium,2025-04-30,Resolved,Large pothole in the middle of the road,Repaired
+45,Malad,Sion Trombay Road,High,2025-04-30,Pending,Deep pothole affecting traffic,Repaired
+100,Bandra,SV Road,High,2025-04-30,Pending,Pothole affecting bus lanes,Pending
+251,Sion,JVLR Road,Low,2025-04-30,Pending,Pothole with water accumulation,Under review
+386,Kurla,JVLR Road,Medium,2025-04-30,Pending,Pothole affecting bus lanes,Repaired
+412,Dadar,JVLR Road,High,2025-04-30,Resolved,Large pothole in the middle of the road,Pending
+164,Andheri,Link Road,Medium,2025-04-30,Pending,Huge pothole causing vehicle damage,Under review
+363,Kurla,LBS Road,High,2025-04-30,Resolved,Deep pothole affecting traffic,Under review
+87,Bandra,LBS Road,Low,2025-04-30,Pending,Deep pothole affecting traffic,Repaired
+141,Kurla,Western Express Hwy,Low,2025-04-30,Resolved,Pothole affecting bus lanes,Pending
+21,Andheri,JVLR Road,High,2025-04-30,Resolved,Small pothole near pedestrian crossing,Pending
+488,Sion,Eastern Express Hwy,High,2025-04-30,Resolved,Pothole with water accumulation,Repaired
+206,Vile Parle,Link Road,Low,2025-04-30,Resolved,Large pothole in the middle of the road,Repaired
+266,Kurla,Link Road,High,2025-04-30,Pending,Small pothole near traffic signal,Under review
+424,Bandra,Linking Road,Medium,2025-04-30,Resolved,Small pothole near traffic signal,Pending
+250,Bandra,Sion Trombay Road,Low,2025-04-30,Resolved,Small pothole near pedestrian crossing,Pending
+3,Andheri,Western Express Hwy,High,2025-04-30,Resolved,Pothole with water accumulation,Under review
+213,Dadar,LBS Road,Low,2025-04-30,Pending,Small pothole near traffic signal,Pending
+92,Sion,Linking Road,Low,2025-04-30,Resolved,Large pothole in high-traffic area,Repaired
+62,Bandra,LBS Road,Low,2025-04-30,Pending,Huge pothole causing vehicle damage,Repaired
+438,Kurla,Western Express Hwy,Low,2025-04-30,Pending,Huge pothole causing vehicle damage,Pending
+186,Malad,Linking Road,Low,2025-04-30,Resolved,Pothole affecting bus lanes,Pending
+72,Andheri,JVLR Road,Low,2025-04-30,Resolved,Large pothole in high-traffic area,Pending
+140,Sion,JVLR Road,Medium,2025-04-30,Resolved,Huge pothole causing vehicle damage,Repaired
+473,Vile Parle,Western Express Hwy,High,2025-04-30,Pending,Deep pothole affecting traffic,Under review
+131,Kurla,LBS Road,Low,2025-04-30,Pending,Pothole with water accumulation,Under review
+479,Borivali,Link Road,Low,2025-04-30,Resolved,Large pothole in high-traffic area,Pending
+57,Malad,Eastern Express Hwy,Low,2025-04-30,Resolved,Pothole with water accumulation,Under review
+56,Kurla,Western Express Hwy,High,2025-04-30,Pending,Deep pothole affecting traffic,Repaired
+287,Dadar,JVLR Road,Low,2025-04-30,Resolved,Pothole with water accumulation,Repaired
+403,Dadar,Linking Road,High,2025-04-30,Pending,Huge pothole causing vehicle damage,Under review
+354,Vile Parle,JVLR Road,Medium,2025-04-30,Pending,Pothole affecting bus lanes,Pending
+9,Dadar,Linking Road,Medium,2025-04-30,Resolved,Large pothole in the middle of the road,Pending
+383,Kurla,JVLR Road,Low,2025-04-30,Pending,Small pothole near pedestrian crossing,Under review
+368,Borivali,Eastern Express Hwy,Low,2025-04-30,Pending,Small pothole near traffic signal,Repaired
+450,Borivali,JVLR Road,Medium,2025-04-30,Pending,Pothole with water accumulation,Pending
+137,Dadar,Linking Road,Low,2025-04-30,Pending,Large pothole in the middle of the road,Repaired
+422,Andheri,JVLR Road,High,2025-04-30,Pending,Pothole affecting bus lanes,Pending
+61,Dadar,SV Road,High,2025-04-30,Resolved,Small pothole near pedestrian crossing,Repaired
+32,Malad,Linking Road,Low,2025-04-30,Pending,Pothole with water accumulation,Pending
+70,Kurla,Linking Road,Low,2025-04-30,Resolved,Pothole with water accumulation,Pending
+462,Vile Parle,Western Express Hwy,High,2025-04-30,Pending,Small pothole near pedestrian crossing,Under review
+481,Malad,Western Express Hwy,Low,2025-04-30,Pending,Huge pothole causing vehicle damage,Pending
+229,Bandra,LBS Road,High,2025-04-30,Resolved,Pothole with water accumulation,Under review
+152,Sion,LBS Road,Low,2025-04-30,Pending,Large pothole in high-traffic area,Pending
+183,Sion,Eastern Express Hwy,High,2025-04-30,Pending,Large pothole in the middle of the road,Pending
+288,Andheri,Western Express Hwy,Medium,2025-04-30,Resolved,Large pothole in the middle of the road,Pending
+220,Bandra,Western Express Hwy,High,2025-04-30,Pending,Pothole with water accumulation,Pending
+150,Sion,LBS Road,Medium,2025-04-30,Pending,Large pothole in high-traffic area,Under review
+461,Bandra,Link Road,Medium,2025-04-30,Resolved,Small pothole near pedestrian crossing,Under review
+33,Sion,SV Road,High,2025-04-30,Pending,Pothole affecting bus lanes,Repaired
+429,Kurla,Linking Road,Medium,2025-04-30,Pending,Large pothole in the middle of the road,Pending
+187,Vile Parle,Eastern Express Hwy,Medium,2025-04-30,Pending,Pothole with water accumulation,Under review
+10,Bandra,Link Road,Low,2025-04-30,Pending,Small pothole near traffic signal,Pending
+4,Bandra,Eastern Express Hwy,Medium,2025-04-30,Pending,Large pothole in the middle of the road,Repaired
+194,Sion,LBS Road,Medium,2025-04-30,Resolved,Deep pothole affecting traffic,Under review
+208,Malad,SV Road,Low,2025-04-30,Pending,Pothole with water accumulation,Repaired
+8,Kurla,Western Express Hwy,Medium,2025-04-30,Resolved,Large pothole in the middle of the road,Repaired
+391,Borivali,SV Road,Low,2025-04-30,Pending,Small pothole near traffic signal,Under review
+333,Borivali,JVLR Road,Medium,2025-04-30,Resolved,Huge pothole causing vehicle damage,Repaired
+319,Bandra,SV Road,Low,2025-04-30,Resolved,Deep pothole affecting traffic,Pending
+286,Dadar,Sion Trombay Road,Medium,2025-04-30,Resolved,Large pothole in high-traffic area,Under review
+73,Borivali,Eastern Express Hwy,High,2025-04-30,Pending,Huge pothole causing vehicle damage,Pending
+294,Bandra,Sion Trombay Road,Medium,2025-04-30,Pending,Small pothole near traffic signal,Pending
+196,Bandra,Link Road,Low,2025-04-30,Pending,Pothole with water accumulation,Repaired
+35,Kurla,JVLR Road,Medium,2025-04-30,Pending,Small pothole near pedestrian crossing,Pending
+430,Bandra,Western Express Hwy,Low,2025-04-30,Resolved,Small pothole near pedestrian crossing,Under review
+421,Kurla,Sion Trombay Road,Medium,2025-04-30,Pending,Small pothole near traffic signal,Pending
+371,Bandra,LBS Road,Medium,2025-04-30,Resolved,Large pothole in high-traffic area,Repaired
+171,Sion,SV Road,High,2025-04-30,Resolved,Small pothole near traffic signal,Repaired
+15,Borivali,Sion Trombay Road,Low,2025-04-30,Resolved,Small pothole near traffic signal,Under review
+456,Malad,LBS Road,Medium,2025-04-30,Pending,Small pothole near pedestrian crossing,Pending
+75,Malad,Western Express Hwy,High,2025-04-30,Resolved,Pothole affecting bus lanes,Repaired
+177,Andheri,Link Road,Low,2025-04-30,Resolved,Small pothole near traffic signal,Under review
+385,Vile Parle,Linking Road,Medium,2025-04-30,Resolved,Small pothole near traffic signal,Repaired
+155,Bandra,SV Road,Medium,2025-04-30,Resolved,Small pothole near pedestrian crossing,Under review
+161,Kurla,Sion Trombay Road,Low,2025-04-30,Pending,Deep pothole affecting traffic,Under review
+484,Dadar,Sion Trombay Road,High,2025-04-30,Resolved,Small pothole near pedestrian crossing,Pending
+104,Kurla,SV Road,High,2025-04-30,Pending,Small pothole near pedestrian crossing,Pending
+490,Kurla,JVLR Road,Low,2025-04-27,Pending,Pothole with water accumulation,Repaired
+434,Borivali,Link Road,Low,2025-04-27,Pending,Small pothole near pedestrian crossing,Pending
+399,Andheri,LBS Road,Low,2025-04-26,Pending,Pothole affecting bus lanes,Under review
+209,Andheri,Eastern Express Hwy,High,2025-04-26,Pending,Large pothole in the middle of the road,Repaired
+397,Bandra,Eastern Express Hwy,Medium,2025-04-25,Pending,Pothole affecting bus lanes,Under review
+224,Borivali,Link Road,High,2025-04-24,Resolved,Pothole with water accumulation,Pending
+493,Sion,Sion Trombay Road,Medium,2025-04-23,Pending,Small pothole near pedestrian crossing,Repaired
+394,Sion,Linking Road,High,2025-04-23,Resolved,Small pothole near pedestrian crossing,Repaired
+22,Bandra,Eastern Express Hwy,Medium,2025-04-22,Pending,Pothole with water accumulation,Under review
+337,Vile Parle,LBS Road,Medium,2025-04-21,Pending,Huge pothole causing vehicle damage,Repaired
+274,Bandra,Eastern Express Hwy,Medium,2025-04-21,Pending,Huge pothole causing vehicle damage,Repaired
+453,Kurla,Sion Trombay Road,Medium,2025-04-20,Pending,Pothole with water accumulation,Repaired
+452,Bandra,Eastern Express Hwy,Low,2025-04-15,Resolved,Pothole affecting bus lanes,Under review
+367,Vile Parle,Link Road,Low,2025-04-15,Resolved,Small pothole near traffic signal,Repaired
+58,Andheri,LBS Road,Low,2025-04-14,Resolved,Large pothole in the middle of the road,Under review
+302,Bandra,LBS Road,High,2025-04-13,Pending,Large pothole in high-traffic area,Under review
+125,Malad,Linking Road,Medium,2025-04-13,Pending,Small pothole near traffic signal,Under review
+321,Sion,Western Express Hwy,Low,2025-04-13,Resolved,Large pothole in the middle of the road,Pending
+105,Bandra,LBS Road,Medium,2025-04-09,Resolved,Small pothole near traffic signal,Under review
+172,Vile Parle,LBS Road,Low,2025-04-09,Pending,Huge pothole causing vehicle damage,Under review
+261,Andheri,Sion Trombay Road,High,2025-04-08,Pending,Small pothole near pedestrian crossing,Under review
+264,Bandra,LBS Road,Low,2025-04-07,Resolved,Large pothole in high-traffic area,Pending
+464,Andheri,Linking Road,Medium,2025-04-06,Pending,Pothole with water accumulation,Repaired
+467,Borivali,Link Road,Low,2025-04-06,Resolved,Deep pothole affecting traffic,Under review
+292,Sion,SV Road,Low,2025-04-05,Resolved,Huge pothole causing vehicle damage,Pending
+477,Bandra,Sion Trombay Road,Low,2025-03-29,Resolved,Pothole affecting bus lanes,Under review
+2,Malad,JVLR Road,High,2025-03-25,Resolved,Deep pothole affecting traffic,Pending
+489,Borivali,Eastern Express Hwy,High,2025-03-22,Pending,Small pothole near traffic signal,Under review
+236,Kurla,Linking Road,Low,2025-03-19,Pending,Deep pothole affecting traffic,Repaired
+282,Vile Parle,JVLR Road,Low,2025-03-19,Pending,Pothole affecting bus lanes,Pending
+267,Bandra,Linking Road,Low,2025-03-17,Resolved,Pothole with water accumulation,Pending
+366,Dadar,SV Road,High,2025-03-16,Resolved,Deep pothole affecting traffic,Under review
+362,Borivali,JVLR Road,High,2025-03-15,Resolved,Huge pothole causing vehicle damage,Under review
+13,Bandra,SV Road,Medium,2025-03-13,Pending,Huge pothole causing vehicle damage,Repaired
+395,Malad,Sion Trombay Road,High,2025-03-12,Pending,Small pothole near traffic signal,Repaired
+338,Borivali,Link Road,Low,2025-03-10,Pending,Large pothole in high-traffic area,Under review
+166,Malad,Linking Road,Low,2025-03-09,Pending,Large pothole in high-traffic area,Under review
+66,Kurla,Sion Trombay Road,High,2025-03-07,Resolved,Pothole with water accumulation,Repaired
+301,Sion,Eastern Express Hwy,Low,2025-03-07,Pending,Small pothole near traffic signal,Repaired
+414,Vile Parle,SV Road,Low,2025-03-06,Resolved,Small pothole near pedestrian crossing,Repaired
+260,Sion,SV Road,Low,2025-03-04,Resolved,Large pothole in the middle of the road,Pending
+154,Bandra,SV Road,Medium,2025-03-01,Pending,Large pothole in the middle of the road,Pending
+1,Sion,Sion Trombay Road,Medium,2025-02-27,Resolved,Small pothole near traffic signal,Repaired
+315,Andheri,Western Express Hwy,Low,2025-02-27,Pending,Small pothole near traffic signal,Under review
+145,Kurla,Link Road,Medium,2025-02-26,Pending,Pothole with water accumulation,Repaired
+382,Andheri,Western Express Hwy,High,2025-02-25,Resolved,Small pothole near pedestrian crossing,Repaired
+37,Kurla,Linking Road,Low,2025-02-24,Pending,Large pothole in the middle of the road,Under review
+175,Bandra,LBS Road,High,2025-02-23,Pending,Small pothole near traffic signal,Under review
+99,Andheri,LBS Road,Medium,2025-02-22,Pending,Pothole with water accumulation,Pending
+143,Vile Parle,Link Road,Medium,2025-02-22,Pending,Large pothole in the middle of the road,Under review
+118,Kurla,Eastern Express Hwy,Low,2025-02-21,Pending,Huge pothole causing vehicle damage,Repaired
+401,Malad,Sion Trombay Road,Low,2025-02-20,Resolved,Pothole with water accumulation,Under review
+417,Kurla,Linking Road,Low,2025-02-17,Resolved,Deep pothole affecting traffic,Under review
+34,Vile Parle,Western Express Hwy,Medium,2025-02-15,Resolved,Small pothole near traffic signal,Repaired
+26,Kurla,Western Express Hwy,Low,2025-02-11,Pending,Pothole with water accumulation,Pending
+5,Dadar,Linking Road,Low,2025-02-08,Resolved,Huge pothole causing vehicle damage,Pending
+221,Dadar,Sion Trombay Road,Medium,2025-02-07,Resolved,Small pothole near traffic signal,Repaired
+495,Vile Parle,Western Express Hwy,Medium,2025-02-02,Pending,Huge pothole causing vehicle damage,Repaired
+357,Andheri,Eastern Express Hwy,Medium,2025-01-30,Resolved,Pothole with water accumulation,Repaired
+240,Bandra,Link Road,Low,2025-01-30,Resolved,Pothole with water accumulation,Under review
+486,Kurla,Western Express Hwy,Low,2025-01-29,Resolved,Large pothole in high-traffic area,Pending
+349,Vile Parle,SV Road,Medium,2025-01-29,Resolved,Large pothole in the middle of the road,Repaired
+355,Malad,SV Road,Low,2025-01-29,Pending,Large pothole in high-traffic area,Under review
+398,Kurla,LBS Road,Medium,2025-01-29,Pending,Pothole with water accumulation,Under review
+42,Malad,LBS Road,Medium,2025-01-27,Resolved,Large pothole in high-traffic area,Pending
+457,Borivali,Western Express Hwy,Low,2025-01-26,Resolved,Small pothole near pedestrian crossing,Pending
+169,Malad,JVLR Road,High,2025-01-26,Pending,Deep pothole affecting traffic,Pending
+402,Andheri,Link Road,Medium,2025-01-23,Pending,Large pothole in high-traffic area,Pending
+0,Bandra,Eastern Express Hwy,Medium,2025-01-22,Resolved,Large pothole in high-traffic area,Pending
+476,Malad,JVLR Road,Low,2025-01-21,Resolved,Deep pothole affecting traffic,Pending
+460,Malad,Link Road,High,2025-01-16,Pending,Pothole with water accumulation,Pending
+330,Malad,Link Road,Medium,2025-01-16,Resolved,Deep pothole affecting traffic,Repaired
+345,Sion,Eastern Express Hwy,High,2025-01-16,Resolved,Pothole affecting bus lanes,Pending
+47,Borivali,Sion Trombay Road,High,2025-01-16,Pending,Pothole with water accumulation,Under review
+29,Borivali,Eastern Express Hwy,High,2025-01-16,Pending,Pothole with water accumulation,Repaired
+109,Malad,Linking Road,Low,2025-01-15,Pending,Large pothole in the middle of the road,Repaired
+176,Dadar,SV Road,High,2025-01-13,Resolved,Small pothole near pedestrian crossing,Repaired
+147,Bandra,JVLR Road,High,2025-01-13,Resolved,Large pothole in high-traffic area,Pending
+408,Sion,LBS Road,High,2025-01-12,Resolved,Large pothole in high-traffic area,Pending
+6,Sion,JVLR Road,High,2025-01-12,Resolved,Huge pothole causing vehicle damage,Pending
+311,Dadar,Sion Trombay Road,Medium,2025-01-10,Pending,Pothole affecting bus lanes,Under review
+374,Bandra,Link Road,Low,2025-01-10,Resolved,Small pothole near traffic signal,Under review
+285,Sion,LBS Road,Low,2025-01-08,Resolved,Pothole with water accumulation,Repaired
+245,Malad,Linking Road,High,2025-01-06,Resolved,Small pothole near traffic signal,Repaired
+411,Bandra,Linking Road,Medium,2025-01-05,Resolved,Pothole with water accumulation,Repaired
+153,Malad,Link Road,High,2025-01-03,Pending,Pothole affecting bus lanes,Repaired
+191,Sion,Eastern Express Hwy,High,2025-01-01,Pending,Huge pothole causing vehicle damage,Repaired
+184,Vile Parle,Eastern Express Hwy,Medium,2024-12-31,Resolved,Small pothole near pedestrian crossing,Under review
+134,Bandra,Link Road,High,2024-12-31,Pending,Pothole affecting bus lanes,Pending
+225,Andheri,LBS Road,Medium,2024-12-28,Pending,Small pothole near traffic signal,Under review
+396,Malad,Linking Road,Low,2024-12-24,Pending,Deep pothole affecting traffic,Repaired
+440,Bandra,JVLR Road,Medium,2024-12-23,Resolved,Small pothole near traffic signal,Under review
+112,Sion,JVLR Road,Medium,2024-12-22,Resolved,Pothole with water accumulation,Repaired
+276,Kurla,LBS Road,Medium,2024-12-21,Pending,Deep pothole affecting traffic,Repaired
+305,Andheri,Sion Trombay Road,High,2024-12-20,Pending,Small pothole near pedestrian crossing,Pending
+129,Kurla,Eastern Express Hwy,High,2024-12-19,Pending,Deep pothole affecting traffic,Under review
+91,Andheri,Sion Trombay Road,High,2024-12-17,Resolved,Large pothole in high-traffic area,Pending
+123,Sion,Link Road,High,2024-12-16,Pending,Pothole affecting bus lanes,Pending
+350,Sion,LBS Road,Medium,2024-12-16,Resolved,Pothole with water accumulation,Repaired
+238,Borivali,Link Road,Medium,2024-12-14,Pending,Large pothole in high-traffic area,Under review
+472,Vile Parle,Sion Trombay Road,Medium,2024-12-14,Pending,Small pothole near traffic signal,Under review
+340,Borivali,Eastern Express Hwy,High,2024-12-13,Resolved,Small pothole near pedestrian crossing,Under review
+343,Malad,SV Road,Medium,2024-12-12,Pending,Deep pothole affecting traffic,Pending
+12,Vile Parle,Link Road,Medium,2024-12-12,Pending,Small pothole near traffic signal,Under review
+121,Vile Parle,SV Road,High,2024-12-12,Pending,Pothole with water accumulation,Under review
+409,Dadar,Sion Trombay Road,Low,2024-12-09,Pending,Small pothole near traffic signal,Under review
+198,Borivali,Western Express Hwy,Medium,2024-12-07,Resolved,Deep pothole affecting traffic,Repaired
+426,Dadar,Sion Trombay Road,Medium,2024-12-05,Resolved,Small pothole near traffic signal,Pending
+390,Andheri,Eastern Express Hwy,High,2024-12-04,Pending,Large pothole in high-traffic area,Under review
+281,Borivali,Eastern Express Hwy,High,2024-12-04,Resolved,Pothole affecting bus lanes,Under review
+222,Kurla,Linking Road,High,2024-12-04,Pending,Large pothole in high-traffic area,Repaired
+420,Borivali,Linking Road,Low,2024-12-02,Resolved,Large pothole in high-traffic area,Under review
+69,Vile Parle,LBS Road,Low,2024-12-01,Resolved,Large pothole in the middle of the road,Pending
+82,Dadar,Sion Trombay Road,Medium,2024-11-30,Pending,Large pothole in the middle of the road,Under review
+253,Dadar,Sion Trombay Road,Low,2024-11-28,Pending,Small pothole near pedestrian crossing,Pending
+174,Vile Parle,Western Express Hwy,High,2024-11-28,Pending,Small pothole near traffic signal,Repaired
+425,Malad,Linking Road,High,2024-11-25,Pending,Pothole affecting bus lanes,Pending
+470,Kurla,Linking Road,High,2024-11-25,Pending,Deep pothole affecting traffic,Pending
+103,Vile Parle,Western Express Hwy,Medium,2024-11-24,Pending,Large pothole in the middle of the road,Under review
+201,Kurla,Sion Trombay Road,Low,2024-11-22,Pending,Pothole affecting bus lanes,Repaired
+202,Andheri,Western Express Hwy,Medium,2024-11-21,Pending,Large pothole in the middle of the road,Under review
+280,Sion,Linking Road,High,2024-11-20,Pending,Small pothole near pedestrian crossing,Under review
+162,Vile Parle,Link Road,Low,2024-11-19,Pending,Large pothole in high-traffic area,Under review
+364,Andheri,Eastern Express Hwy,Medium,2024-11-19,Resolved,Deep pothole affecting traffic,Under review
+312,Sion,Link Road,High,2024-11-18,Resolved,Small pothole near pedestrian crossing,Under review
+132,Kurla,JVLR Road,Medium,2024-11-16,Resolved,Large pothole in high-traffic area,Repaired
+149,Sion,Eastern Express Hwy,Medium,2024-11-16,Pending,Pothole with water accumulation,Pending
+303,Bandra,Sion Trombay Road,High,2024-11-14,Pending,Pothole affecting bus lanes,Repaired
+182,Vile Parle,Link Road,High,2024-11-12,Resolved,Large pothole in high-traffic area,Pending
+78,Sion,Link Road,High,2024-11-09,Resolved,Huge pothole causing vehicle damage,Pending
+283,Kurla,Link Road,Low,2024-11-06,Resolved,Large pothole in high-traffic area,Pending
+14,Andheri,Western Express Hwy,Low,2024-11-06,Resolved,Small pothole near traffic signal,Repaired
+24,Vile Parle,Link Road,Medium,2024-11-06,Resolved,Large pothole in high-traffic area,Pending
+136,Malad,Eastern Express Hwy,High,2024-11-04,Pending,Huge pothole causing vehicle damage,Pending
+237,Sion,Western Express Hwy,Medium,2024-11-01,Pending,Pothole affecting bus lanes,Pending
+28,Sion,Eastern Express Hwy,Low,2024-10-31,Pending,Small pothole near pedestrian crossing,Pending
+478,Andheri,SV Road,Low,2024-10-28,Resolved,Large pothole in the middle of the road,Pending
+423,Andheri,LBS Road,Medium,2024-10-28,Pending,Small pothole near pedestrian crossing,Repaired
+219,Borivali,Sion Trombay Road,Low,2024-10-24,Pending,Small pothole near traffic signal,Pending
+290,Borivali,LBS Road,Medium,2024-10-21,Pending,Large pothole in high-traffic area,Repaired
+346,Malad,Eastern Express Hwy,Medium,2024-10-20,Pending,Small pothole near traffic signal,Pending
+193,Sion,Sion Trombay Road,Low,2024-10-19,Resolved,Huge pothole causing vehicle damage,Under review
+218,Malad,LBS Road,Low,2024-10-19,Resolved,Pothole affecting bus lanes,Repaired
+279,Kurla,Sion Trombay Road,High,2024-10-17,Pending,Pothole affecting bus lanes,Repaired
+7,Sion,JVLR Road,Low,2024-10-16,Pending,Small pothole near pedestrian crossing,Pending
+59,Borivali,LBS Road,Low,2024-10-14,Pending,Pothole affecting bus lanes,Pending
+328,Andheri,Western Express Hwy,Medium,2024-10-14,Pending,Huge pothole causing vehicle damage,Pending
+326,Vile Parle,Sion Trombay Road,Medium,2024-10-14,Resolved,Deep pothole affecting traffic,Pending
+216,Vile Parle,Sion Trombay Road,Medium,2024-10-13,Pending,Pothole with water accumulation,Under review
+30,Bandra,JVLR Road,Low,2024-10-12,Pending,Small pothole near traffic signal,Under review
+352,Borivali,Linking Road,Low,2024-10-09,Resolved,Large pothole in the middle of the road,Repaired
+126,Andheri,Linking Road,Low,2024-10-08,Resolved,Small pothole near pedestrian crossing,Pending
+300,Sion,Link Road,Medium,2024-10-08,Resolved,Small pothole near pedestrian crossing,Under review
+76,Sion,Eastern Express Hwy,High,2024-10-07,Pending,Huge pothole causing vehicle damage,Pending
+448,Malad,Sion Trombay Road,Medium,2024-10-06,Resolved,Huge pothole causing vehicle damage,Repaired
+255,Kurla,JVLR Road,High,2024-10-06,Pending,Large pothole in the middle of the road,Under review
+271,Malad,Linking Road,High,2024-10-05,Resolved,Small pothole near pedestrian crossing,Repaired
+160,Vile Parle,JVLR Road,Medium,2024-10-03,Pending,Pothole with water accumulation,Pending
+11,Sion,Eastern Express Hwy,Low,2024-10-03,Resolved,Deep pothole affecting traffic,Repaired
+77,Malad,LBS Road,Medium,2024-09-29,Pending,Pothole affecting bus lanes,Pending
+215,Andheri,Link Road,Low,2024-09-27,Pending,Large pothole in the middle of the road,Repaired
+258,Andheri,Link Road,Medium,2024-09-27,Pending,Pothole affecting bus lanes,Under review
+239,Bandra,Linking Road,High,2024-09-23,Resolved,Large pothole in high-traffic area,Repaired
+419,Vile Parle,JVLR Road,Medium,2024-09-21,Resolved,Pothole with water accumulation,Repaired
+74,Sion,Western Express Hwy,Medium,2024-09-18,Resolved,Large pothole in high-traffic area,Under review
+232,Vile Parle,LBS Road,High,2024-09-17,Pending,Deep pothole affecting traffic,Repaired
+480,Andheri,JVLR Road,Medium,2024-09-16,Resolved,Large pothole in high-traffic area,Repaired
+365,Sion,Linking Road,Low,2024-09-13,Pending,Small pothole near pedestrian crossing,Repaired
+212,Malad,LBS Road,High,2024-09-13,Resolved,Small pothole near pedestrian crossing,Pending
+130,Andheri,Western Express Hwy,High,2024-09-12,Resolved,Pothole affecting bus lanes,Under review
+188,Dadar,LBS Road,High,2024-09-11,Pending,Small pothole near traffic signal,Pending
+310,Malad,Sion Trombay Road,Medium,2024-09-10,Resolved,Deep pothole affecting traffic,Pending
+324,Sion,Link Road,Low,2024-09-07,Resolved,Pothole with water accumulation,Under review
+138,Dadar,LBS Road,Low,2024-09-06,Resolved,Small pothole near traffic signal,Repaired
+227,Borivali,Sion Trombay Road,Medium,2024-09-05,Resolved,Large pothole in the middle of the road,Under review
+200,Kurla,Eastern Express Hwy,High,2024-09-05,Resolved,Huge pothole causing vehicle damage,Pending
+441,Kurla,Eastern Express Hwy,Medium,2024-09-03,Resolved,Small pothole near traffic signal,Under review
+254,Sion,Eastern Express Hwy,High,2024-09-01,Pending,Small pothole near traffic signal,Under review
+48,Borivali,Eastern Express Hwy,Medium,2024-09-01,Resolved,Large pothole in high-traffic area,Repaired
+313,Dadar,JVLR Road,Low,2024-08-31,Pending,Large pothole in high-traffic area,Under review
+41,Borivali,Link Road,Low,2024-08-25,Resolved,Large pothole in high-traffic area,Repaired
+316,Borivali,JVLR Road,Low,2024-08-25,Resolved,Pothole affecting bus lanes,Repaired
+410,Borivali,Linking Road,High,2024-08-25,Pending,Small pothole near traffic signal,Pending
+270,Kurla,Western Express Hwy,Medium,2024-08-24,Resolved,Large pothole in the middle of the road,Pending
+247,Borivali,JVLR Road,Low,2024-08-22,Pending,Pothole affecting bus lanes,Repaired
+98,Andheri,Linking Road,High,2024-08-21,Resolved,Small pothole near traffic signal,Repaired
+298,Bandra,Eastern Express Hwy,Low,2024-08-20,Pending,Small pothole near pedestrian crossing,Under review
+84,Kurla,Eastern Express Hwy,Low,2024-08-20,Pending,Large pothole in high-traffic area,Repaired
+432,Bandra,Linking Road,Low,2024-08-15,Pending,Small pothole near traffic signal,Repaired
+96,Malad,Link Road,Low,2024-08-14,Resolved,Deep pothole affecting traffic,Repaired
+23,Malad,Linking Road,Medium,2024-08-14,Resolved,Small pothole near pedestrian crossing,Pending
+25,Bandra,Linking Road,Medium,2024-08-11,Resolved,Huge pothole causing vehicle damage,Pending
+387,Sion,SV Road,Low,2024-08-10,Pending,Large pothole in high-traffic area,Under review
+133,Dadar,SV Road,Low,2024-08-10,Resolved,Large pothole in high-traffic area,Pending
+356,Kurla,Sion Trombay Road,High,2024-08-07,Resolved,Huge pothole causing vehicle damage,Pending
+272,Andheri,Link Road,Medium,2024-08-05,Pending,Deep pothole affecting traffic,Pending
+67,Vile Parle,Eastern Express Hwy,Low,2024-08-04,Pending,Deep pothole affecting traffic,Pending
+101,Sion,Western Express Hwy,Medium,2024-07-30,Resolved,Deep pothole affecting traffic,Under review
+475,Vile Parle,Sion Trombay Road,Low,2024-07-28,Pending,Pothole with water accumulation,Under review
+433,Vile Parle,Sion Trombay Road,Low,2024-07-28,Resolved,Small pothole near traffic signal,Under review
+485,Sion,Linking Road,High,2024-07-26,Pending,Large pothole in the middle of the road,Repaired
+443,Malad,Eastern Express Hwy,Medium,2024-07-24,Resolved,Huge pothole causing vehicle damage,Repaired
+93,Bandra,Linking Road,Medium,2024-07-22,Pending,Small pothole near traffic signal,Pending
+400,Vile Parle,Eastern Express Hwy,Low,2024-07-22,Pending,Pothole affecting bus lanes,Pending
+413,Andheri,Linking Road,Low,2024-07-22,Resolved,Deep pothole affecting traffic,Repaired
+46,Sion,JVLR Road,Low,2024-07-21,Pending,Large pothole in the middle of the road,Repaired
+336,Vile Parle,Eastern Express Hwy,Low,2024-07-18,Pending,Small pothole near traffic signal,Under review
+445,Sion,Eastern Express Hwy,High,2024-07-17,Pending,Deep pothole affecting traffic,Repaired
+431,Andheri,Link Road,High,2024-07-17,Pending,Large pothole in high-traffic area,Pending
+415,Andheri,Western Express Hwy,High,2024-07-16,Resolved,Small pothole near pedestrian crossing,Repaired
+244,Vile Parle,Western Express Hwy,High,2024-07-16,Pending,Large pothole in high-traffic area,Pending
+190,Borivali,Linking Road,High,2024-07-15,Pending,Deep pothole affecting traffic,Under review
+115,Bandra,Sion Trombay Road,Medium,2024-07-14,Pending,Pothole affecting bus lanes,Repaired
+439,Borivali,SV Road,Low,2024-07-14,Pending,Small pothole near pedestrian crossing,Pending
+317,Andheri,LBS Road,Medium,2024-07-11,Pending,Pothole affecting bus lanes,Under review
+185,Malad,JVLR Road,Low,2024-07-07,Pending,Huge pothole causing vehicle damage,Repaired
+19,Sion,SV Road,Medium,2024-07-07,Pending,Small pothole near pedestrian crossing,Under review
+144,Bandra,SV Road,High,2024-07-05,Resolved,Deep pothole affecting traffic,Pending
+275,Borivali,Sion Trombay Road,Low,2024-07-02,Pending,Small pothole near traffic signal,Repaired
+347,Sion,Western Express Hwy,Low,2024-07-01,Pending,Large pothole in the middle of the road,Under review
+181,Vile Parle,Sion Trombay Road,Medium,2024-06-30,Pending,Large pothole in high-traffic area,Pending
+468,Dadar,LBS Road,High,2024-06-26,Resolved,Small pothole near traffic signal,Pending
+297,Malad,LBS Road,Low,2024-06-26,Pending,Small pothole near pedestrian crossing,Pending
+89,Borivali,SV Road,High,2024-06-26,Pending,Pothole affecting bus lanes,Under review
+381,Sion,Eastern Express Hwy,High,2024-06-26,Pending,Huge pothole causing vehicle damage,Pending
+361,Dadar,Eastern Express Hwy,High,2024-06-24,Pending,Large pothole in high-traffic area,Repaired
+327,Malad,JVLR Road,Low,2024-06-23,Pending,Small pothole near pedestrian crossing,Repaired
+416,Sion,Western Express Hwy,Low,2024-06-23,Pending,Huge pothole causing vehicle damage,Repaired
+146,Sion,Linking Road,High,2024-06-22,Resolved,Small pothole near pedestrian crossing,Repaired
+79,Malad,Western Express Hwy,High,2024-06-21,Resolved,Pothole with water accumulation,Repaired
+95,Andheri,Linking Road,Low,2024-06-21,Pending,Pothole affecting bus lanes,Pending
+388,Vile Parle,LBS Road,Low,2024-06-21,Pending,Pothole with water accumulation,Under review
+214,Kurla,SV Road,Low,2024-06-20,Resolved,Small pothole near pedestrian crossing,Pending
+299,Sion,Link Road,Medium,2024-06-20,Pending,Small pothole near pedestrian crossing,Pending
+284,Andheri,SV Road,Medium,2024-06-20,Pending,Deep pothole affecting traffic,Under review
+85,Malad,JVLR Road,Medium,2024-06-17,Pending,Small pothole near pedestrian crossing,Pending
+428,Vile Parle,Link Road,High,2024-06-13,Resolved,Small pothole near pedestrian crossing,Under review
+341,Sion,Sion Trombay Road,Medium,2024-06-13,Pending,Pothole with water accumulation,Repaired
+307,Vile Parle,SV Road,Low,2024-06-10,Pending,Small pothole near pedestrian crossing,Under review
+88,Bandra,SV Road,Low,2024-06-07,Pending,Deep pothole affecting traffic,Repaired
+487,Kurla,Linking Road,High,2024-06-07,Pending,Small pothole near pedestrian crossing,Pending
+40,Andheri,SV Road,Low,2024-06-07,Resolved,Large pothole in the middle of the road,Repaired
+111,Sion,LBS Road,High,2024-06-06,Resolved,Pothole affecting bus lanes,Repaired
+192,Bandra,LBS Road,Low,2024-06-06,Pending,Large pothole in the middle of the road,Repaired
+465,Borivali,Link Road,High,2024-06-05,Resolved,Large pothole in high-traffic area,Repaired
+114,Sion,SV Road,High,2024-06-05,Pending,Large pothole in the middle of the road,Repaired
+65,Borivali,SV Road,Low,2024-06-04,Resolved,Pothole with water accumulation,Pending
+304,Sion,Western Express Hwy,High,2024-06-01,Pending,Large pothole in the middle of the road,Repaired
+135,Andheri,LBS Road,High,2024-05-31,Pending,Huge pothole causing vehicle damage,Pending
+124,Sion,Linking Road,High,2024-05-31,Pending,Large pothole in the middle of the road,Under review
+369,Dadar,SV Road,High,2024-05-28,Resolved,Large pothole in the middle of the road,Pending
+107,Andheri,Sion Trombay Road,Medium,2024-05-27,Pending,Large pothole in high-traffic area,Repaired
+463,Dadar,Linking Road,Low,2024-05-27,Pending,Small pothole near traffic signal,Repaired
+289,Andheri,Link Road,High,2024-05-26,Resolved,Deep pothole affecting traffic,Repaired
+52,Malad,SV Road,Low,2024-05-25,Resolved,Small pothole near pedestrian crossing,Under review
+376,Borivali,JVLR Road,High,2024-05-23,Pending,Large pothole in the middle of the road,Repaired
+139,Borivali,JVLR Road,Low,2024-05-19,Resolved,Deep pothole affecting traffic,Under review
+378,Dadar,Link Road,Medium,2024-05-17,Resolved,Small pothole near pedestrian crossing,Repaired
+278,Sion,Sion Trombay Road,Medium,2024-05-17,Pending,Large pothole in high-traffic area,Under review
+119,Bandra,LBS Road,High,2024-05-16,Pending,Small pothole near traffic signal,Pending
+207,Bandra,Western Express Hwy,Medium,2024-05-16,Resolved,Large pothole in the middle of the road,Under review
+393,Bandra,Linking Road,High,2024-05-16,Resolved,Huge pothole causing vehicle damage,Repaired
+344,Vile Parle,Eastern Express Hwy,Medium,2024-05-14,Pending,Large pothole in high-traffic area,Repaired
+442,Kurla,Linking Road,High,2024-05-11,Pending,Small pothole near pedestrian crossing,Pending
+110,Andheri,Sion Trombay Road,Low,2024-05-11,Resolved,Large pothole in high-traffic area,Pending
+195,Andheri,Sion Trombay Road,High,2024-05-11,Resolved,Small pothole near pedestrian crossing,Under review
+179,Kurla,Eastern Express Hwy,High,2024-05-10,Resolved,Huge pothole causing vehicle damage,Under review
+295,Borivali,Eastern Express Hwy,Medium,2024-05-09,Pending,Small pothole near traffic signal,Pending
+38,Dadar,Eastern Express Hwy,Medium,2024-05-08,Pending,Small pothole near traffic signal,Repaired
+377,Dadar,LBS Road,Low,2024-05-07,Resolved,Small pothole near traffic signal,Pending
+496,Sion,Western Express Hwy,Medium,2024-05-07,Resolved,Small pothole near traffic signal,Pending
+102,Malad,Eastern Express Hwy,High,2024-05-04,Pending,Small pothole near traffic signal,Pending
+360,Malad,Link Road,Low,2024-05-03,Resolved,Huge pothole causing vehicle damage,Repaired
+342,Kurla,Sion Trombay Road,Low,2024-05-02,Resolved,Small pothole near traffic signal,Under review
+27,Sion,Link Road,High,2024-05-02,Resolved,Pothole with water accumulation,Repaired
+158,Vile Parle,JVLR Road,Low,2024-05-01,Pending,Pothole affecting bus lanes,Under review
+68,Andheri,Western Express Hwy,Medium,2024-04-30,Pending,Small pothole near traffic signal,Pending
+54,Malad,JVLR Road,Low,2024-04-30,Pending,Small pothole near pedestrian crossing,Pending
+203,Vile Parle,LBS Road,High,2024-04-29,Resolved,Deep pothole affecting traffic,Repaired
+248,Andheri,Sion Trombay Road,High,2024-04-27,Resolved,Pothole with water accumulation,Under review
+228,Dadar,LBS Road,Low,2024-04-25,Pending,Huge pothole causing vehicle damage,Pending
+199,Kurla,JVLR Road,Medium,2024-04-24,Resolved,Deep pothole affecting traffic,Pending
+265,Sion,Western Express Hwy,High,2024-04-24,Pending,Large pothole in the middle of the road,Repaired
+268,Bandra,LBS Road,High,2024-04-23,Pending,Huge pothole causing vehicle damage,Under review
+117,Dadar,JVLR Road,Medium,2024-04-23,Resolved,Large pothole in the middle of the road,Pending
+454,Kurla,Eastern Express Hwy,Low,2024-04-21,Resolved,Small pothole near pedestrian crossing,Pending
+256,Dadar,JVLR Road,High,2024-04-21,Resolved,Pothole with water accumulation,Pending
+322,Borivali,SV Road,Medium,2024-04-21,Resolved,Huge pothole causing vehicle damage,Repaired
+309,Malad,Link Road,Medium,2024-04-15,Pending,Pothole affecting bus lanes,Under review
+325,Borivali,Eastern Express Hwy,Low,2024-04-15,Pending,Large pothole in high-traffic area,Under review
+370,Kurla,LBS Road,Low,2024-04-14,Pending,Pothole with water accumulation,Pending
+31,Malad,Eastern Express Hwy,Medium,2024-04-14,Resolved,Huge pothole causing vehicle damage,Repaired
+189,Malad,Western Express Hwy,Medium,2024-04-13,Resolved,Large pothole in the middle of the road,Pending
+170,Sion,SV Road,Medium,2024-04-12,Pending,Large pothole in the middle of the road,Under review
+51,Kurla,Link Road,High,2024-04-10,Resolved,Small pothole near traffic signal,Pending
+331,Sion,Link Road,Low,2024-04-09,Pending,Huge pothole causing vehicle damage,Under review
+375,Bandra,Link Road,Medium,2024-04-08,Pending,Small pothole near pedestrian crossing,Repaired
+314,Sion,SV Road,Low,2024-04-04,Pending,Large pothole in high-traffic area,Under review
+498,Andheri,Link Road,Medium,2024-04-03,Pending,Large pothole in the middle of the road,Repaired
+436,Kurla,JVLR Road,Low,2024-04-03,Pending,Small pothole near traffic signal,Under review
+474,Dadar,JVLR Road,Medium,2024-04-03,Resolved,Huge pothole causing vehicle damage,Under review
+83,Vile Parle,Eastern Express Hwy,Low,2024-04-03,Pending,Small pothole near pedestrian crossing,Pending
+122,Malad,Sion Trombay Road,Low,2024-04-02,Pending,Pothole affecting bus lanes,Under review
+259,Sion,Link Road,Low,2024-03-25,Pending,Deep pothole affecting traffic,Repaired
+277,Kurla,Linking Road,High,2024-03-23,Pending,Deep pothole affecting traffic,Repaired
+373,Dadar,Western Express Hwy,Medium,2024-03-23,Resolved,Pothole with water accumulation,Repaired
+318,Kurla,SV Road,High,2024-03-23,Pending,Huge pothole causing vehicle damage,Repaired
+379,Vile Parle,Linking Road,Medium,2024-03-22,Pending,Deep pothole affecting traffic,Under review
+458,Andheri,Link Road,Medium,2024-03-18,Resolved,Large pothole in high-traffic area,Repaired
+63,Borivali,Sion Trombay Road,Medium,2024-03-13,Resolved,Large pothole in the middle of the road,Repaired
+380,Dadar,Eastern Express Hwy,Medium,2024-03-13,Pending,Large pothole in high-traffic area,Under review
+372,Borivali,SV Road,Low,2024-03-13,Pending,Pothole with water accumulation,Under review
+205,Andheri,JVLR Road,High,2024-03-13,Pending,Large pothole in the middle of the road,Repaired
+384,Sion,LBS Road,High,2024-03-09,Resolved,Pothole affecting bus lanes,Repaired
+497,Dadar,SV Road,Low,2024-03-06,Pending,Pothole with water accumulation,Repaired
+451,Dadar,JVLR Road,Low,2024-03-05,Resolved,Large pothole in high-traffic area,Under review
+389,Malad,Link Road,Medium,2024-03-05,Resolved,Pothole affecting bus lanes,Under review
+353,Andheri,LBS Road,High,2024-03-03,Resolved,Large pothole in high-traffic area,Repaired
+233,Andheri,Western Express Hwy,Low,2024-02-27,Pending,Pothole with water accumulation,Pending
+249,Dadar,Link Road,Medium,2024-02-27,Pending,Huge pothole causing vehicle damage,Pending
+492,Vile Parle,Eastern Express Hwy,High,2024-02-18,Pending,Pothole affecting bus lanes,Under review
+404,Bandra,Link Road,Low,2024-02-18,Resolved,Large pothole in high-traffic area,Repaired
+86,Sion,Linking Road,High,2024-02-16,Pending,Pothole with water accumulation,Repaired
+482,Malad,Eastern Express Hwy,Low,2024-02-16,Pending,Pothole affecting bus lanes,Under review
+180,Kurla,LBS Road,High,2024-02-15,Resolved,Large pothole in high-traffic area,Under review
+444,Bandra,SV Road,Medium,2024-02-13,Resolved,Huge pothole causing vehicle damage,Under review
+60,Kurla,JVLR Road,High,2024-02-12,Resolved,Pothole affecting bus lanes,Repaired
+262,Vile Parle,Sion Trombay Road,High,2024-02-12,Resolved,Pothole with water accumulation,Pending
+210,Andheri,LBS Road,High,2024-02-09,Resolved,Huge pothole causing vehicle damage,Under review
+168,Kurla,Eastern Express Hwy,High,2024-02-04,Pending,Small pothole near pedestrian crossing,Repaired
+491,Malad,SV Road,High,2024-02-01,Pending,Pothole affecting bus lanes,Repaired
+235,Borivali,Sion Trombay Road,Medium,2024-02-01,Resolved,Small pothole near pedestrian crossing,Repaired
+291,Malad,SV Road,Low,2024-01-31,Resolved,Large pothole in high-traffic area,Pending
+406,Dadar,Western Express Hwy,High,2024-01-30,Pending,Deep pothole affecting traffic,Repaired
+257,Andheri,JVLR Road,Low,2024-01-30,Pending,Pothole affecting bus lanes,Repaired
+242,Borivali,LBS Road,Low,2024-01-26,Resolved,Small pothole near traffic signal,Repaired
+159,Kurla,Western Express Hwy,Medium,2024-01-18,Pending,Small pothole near traffic signal,Under review
+323,Andheri,Linking Road,Low,2024-01-18,Resolved,Small pothole near traffic signal,Repaired
+351,Malad,SV Road,Low,2024-01-16,Pending,Small pothole near pedestrian crossing,Pending
+335,Andheri,Western Express Hwy,Medium,2024-01-16,Pending,Deep pothole affecting traffic,Under review
+243,Borivali,JVLR Road,High,2024-01-16,Resolved,Deep pothole affecting traffic,Pending
+157,Dadar,Eastern Express Hwy,Low,2024-01-13,Resolved,Large pothole in high-traffic area,Repaired
+469,Borivali,JVLR Road,High,2024-01-09,Pending,Large pothole in the middle of the road,Pending
+427,Sion,Linking Road,Medium,2024-01-07,Resolved,Small pothole near traffic signal,Repaired
+108,Vile Parle,LBS Road,High,2024-01-07,Resolved,Deep pothole affecting traffic,Under review
+499,Andheri,SV Road,Medium,2024-01-06,Resolved,Small pothole near traffic signal,Repaired
+241,Andheri,SV Road,Low,2024-01-06,Pending,Small pothole near traffic signal,Repaired
+167,Sion,Linking Road,Low,2024-01-05,Resolved,Deep pothole affecting traffic,Repaired
+71,Dadar,Sion Trombay Road,Medium,2024-01-04,Resolved,Large pothole in the middle of the road,Pending
+20,Sion,LBS Road,Low,2024-01-04,Pending,Huge pothole causing vehicle damage,Under review
